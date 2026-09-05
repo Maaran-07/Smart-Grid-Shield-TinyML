@@ -1,0 +1,1 @@
+500 generated synthetic samples. 100 per condition. Not field data.

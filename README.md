@@ -1,8 +1,4 @@
-Yes. The previous README is **too polished/formal**. For a student GitHub repository, it should sound like you actually built it, experimented with it, and documented what you did.
 
-I’d use this version:
-
-````markdown
 # Smart-Grid Shield ⚡
 
 ### Edge-AI based PV Anomaly Detection using Arduino and TinyML
